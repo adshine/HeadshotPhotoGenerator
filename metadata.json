@@ -1,0 +1,5 @@
+{
+  "name": "AI Headshot Photographer",
+  "description": "Upload a casual selfie, select a desired professional style (e.g., 'Corporate Grey Backdrop,' 'Modern Tech Office'), and the app will generate a new headshot using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
